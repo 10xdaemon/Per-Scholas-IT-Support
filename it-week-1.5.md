@@ -146,8 +146,3 @@
 - Burn-in
 - Incorrect color (cabling issue)
 
-### 
-### 
-### 
-### 
-### 
