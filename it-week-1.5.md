@@ -145,4 +145,3 @@
 - Dead pixels (rainbow dots)
 - Burn-in
 - Incorrect color (cabling issue)
-
