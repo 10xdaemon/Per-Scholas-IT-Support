@@ -2,7 +2,7 @@
 
 # Configuring Network Addresssing and Internet Connections
 
-## 6.1 Internet Connection Types
+## 6.1 INTERNET CONNECTION TYPES
 
 ### Internet Connection Types and Modems
 
@@ -228,13 +228,39 @@
 
 ### DNS Record Types
 
-- SOA
-- A
-- AAAA
-- CNAME
-- MX
-- TXT
-- SRV
-- NS
-- PTR- Reverse A/AAAA
+- SOA (Source of Authority)
+- A (Assigning an IP address)
+- AAAA (%ipv6)
+- CNAME (different names for the same IP)
+- MX (mail exchange)
+- TXT (add text to messages)
+- SRV (specifies the host name for ports and services)
+- NS (lists the authoritative DNS server you'll be referencing)
+- PTR- Reverse A/AAAA (`pointer` for nslookup)
+
+![dns manager](/assets/dns_manager.png)
+
+
+### DNS Spam Management Records
+ 
+- Sender y Framework (SPF)
+- Domain Keys Identified Mail (DKIM)
+- DMARC
+
+### Virtual LANs
+
+- Increased performance
+    1. Broadcast domain split
+- Increased security
+    1. Control of communication between networks and nodes
+- Implemented on switch
+
+### Virtual Private Networks
+
+- Remote connection method for security
+- Secure tunneled traffic over non-secure connections
+    1. Public Wi-Fi
+
+![vpn diagram](/assets/vpn_diagram.png)
+
 
