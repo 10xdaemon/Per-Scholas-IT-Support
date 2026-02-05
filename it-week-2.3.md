@@ -213,6 +213,7 @@
 
 ### Bluetooth, RFID, and NFC
 
+
 - Bluetooth pairing
 - RFID- inventory tracking and badge access
 - NFC- contactless payment and badge access use
