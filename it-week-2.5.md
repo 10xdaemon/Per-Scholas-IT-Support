@@ -9,7 +9,7 @@
 - SMB/Samba (Server Message Block `445`)
 - NetBIOS 
 - FTP (File Transfer Protocol `20/21`)
-    1. FTPS- TLS (Trnasport Layer Security)
+    1. FTPS- TLS (Transport Layer Security)
     1. SFTP- SSH (Secure Shell)
 
 ### Database Servers
@@ -22,8 +22,7 @@
 
 ### Web Servers
 - Hosts webpages and websites
-- HTTP
-    1. Port `80`
+- HTTP: Port `80`
 - HTTPS
     1. Port `443`
     1. Security through TLS certificates
@@ -38,8 +37,7 @@
 
 ### Mail Servers `sending`
 
-- Simple(Sending) Mail Transfer Protocol (SMTP)
-    1. Port `25`
+- Simple(Sending) Mail Transfer Protocol (SMTP): Port `25`
 - SMTPS
     1. TLS certificate security
     1. Port `587` (465)
