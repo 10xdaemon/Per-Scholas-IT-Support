@@ -262,5 +262,3 @@
     1. Public Wi-Fi
 
 ![vpn diagram](/assets/vpn_diagram.png)
-
-
