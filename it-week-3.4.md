@@ -123,3 +123,92 @@
 
 ### Laptop Disassembly Processes
 
+- Smaller size components
+- Hand tools
+- Parts
+- Form factors and plastics: Easily damaged
+
+### Battery Replacement
+
+- AC Adapter- power supply
+- Battery removal
+    - Release tab
+    - Screws
+
+![hotswappable battery](/assets/hotswappable.png)
+
+### RAM and Adapter Replacement
+
+- Upgrading RAM
+- Limited number of slots
+- SODIMM
+- Adapter cards
+    1. Mini PCIe
+    1. mSATA
+    1. M.2
+- Wireless
+
+### Disk Upgrades and Replacement
+
+- Migration of data
+- Replacement of drive
+- 2.5" HDD
+- SSD: {mSATA, M.2}
+
+
+### Keyboard and Security Component Replacement
+
+- Full disassembly may be required for replacement
+- Key replacement for cleaning
+- Biometric security component i.e `Fingerpring, Face Scan`
+- Camera and microphone replacement: Removal of screen bezel
+- NFC scanner
+
+## 9.4 TROUBLESHOOT MOBILE DEVICES
+
+### Power and Battery Issues
+
+- Check power supply and outlet for proper voltage
+- Check battery is correctly inserted
+- Battery health condition
+- Improper charging
+    - Charging when battery is not fully discharged can shorten lifespan
+    - Intelligent charge monitoring systems
+- Swollen battery
+    - Swelling and bulging of a battery is a sign of failure
+    - Battery should be removed immediately and disposed of properly
+
+### Hardware Failure Issues
+
+- Overheating: Cooling pad
+- Liquid damage: IP scale of waterproofing
+- Physical damage to external ports: Dust and moisture exposure
+
+### Screen and Calibration Issues
+
+- Backlight failure
+- Broken screen
+    - Glass can cut and injure, replace at earliest possible opportunity
+- Digitizer damage
+    - Touch input
+    - If damaged, device input will not work
+- Cursor drift/touch calibration
+    - Driver updates
+    - Screen protectors and phone cases can reduce sensitivity
+
+### Connectivity Issues
+
+- Interference
+- Antenna connectors are firmly seated
+- Network connectivity testing
+
+### Malware Issues
+*The same syptoms of malware on a dsktop system apply to mobile devices as well.*
+
+- Data collection and external reporting
+- Background processes
+- Data transfers over limits
+- Hardware permission changes: Accessing network and hardware resources without proper permissions
+- Malware may block new apps downloads 
+
+
