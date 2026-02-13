@@ -154,8 +154,8 @@
 
 ### 3D Printer
 
-- Spool :Has the filament used by the printer
-- For some prints, print in batches for stability reasons and accurate models
+- Spool: Has the filament used by the printer
+- For some jobs, print in batches for stability reasons and accurate models
 - Filament types: Resin, etc...
 - Uses CAD/Blender
 
@@ -174,7 +174,7 @@
 
 - For paper jams: Follow on-screen instructions to clear paper path
 - Verify paper settings and feed roller condition
-- Grinding noises: Ensure cartridges and print head are seated correctly
+- Grinding noises: Ensure cartridges and print heads are seated correctly
 
 ### Print Quality Issues
 
@@ -186,7 +186,7 @@
 - A color is missing: Replace cartridge and clean contacts
 - Print test pages to verify the results
 
-*The distance from the nozzle to the page is called the plating gap*
+*The distance from the nozzle to the page is called the `plating gap`*
 - too close hit the paper hard
 - too far away, shotgun spray
 
