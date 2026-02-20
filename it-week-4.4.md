@@ -169,7 +169,7 @@
 
 ### Windows File System Types
 
-- New Technology File System (NTFS) 
+- New Technology File System `NTFS` 
     - Developed by Microsoft
     - Parts
         1. Journaling
@@ -182,4 +182,27 @@
     - A high-performing, scalable, and resilient file system
 - FAT32/exFAT
     - File allocation table (FAT) and extended FAT (exFAT)
+
+### Linux and macOS File System Types
+
+- Linux
+    1. ext4 
+    1. XFS extended file system
+- macOS: APFS proprietary Apple File System
+
+### OS Compatibility Issues
+
+- OS developed for a particular set of device hardware 
+    - Example: Windows 11 requires the support of a TPM v2.0
+- Software applications 
+    - Developed for a specific OS and file system
+- Network compatibility
+- Provide user training and support with changes
+
+### Vender Life-cycle Limitations
+
+- End-of-life/end-of-service-life
+    OEM or developer no longer supports product
+
+![compatability demo](/assets/compatdemo.png)
 
