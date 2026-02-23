@@ -7,18 +7,24 @@
 ### Device Manager
 
 - Updating devices
-- Driver information
+    - Driver information
 - Troubleshooting malfunctioning devices
-- Built-in troubleshooter to assist in diagnosis and correction of issues
+    - Built-in troubleshooter to assist in diagnosis and correction of issues
 - Removing devices
 - Uninstalling devices
 - Disabling devices
-- Some hardware devices can be disabled in the BIOS/UEFI menus
-- 
-**work on missing**
-########################################
+    - Some hardware devices can be disabled in the BIOS/UEFI menus
 
 ### Disk Management Console
+
+- Manage fixed and removable disks and partitions
+- HDD, SSD, and optical drives
+- Disk management tasks
+    1. Initialize
+    1. Partition
+    1. Format
+    1. Repartition
+
 
 ### Disk Maintenance Tools
 
@@ -130,3 +136,79 @@
     - Displays Windows version information
 - whoami
     - Displays current user who is logged in
+
+![System management console](/assets/system_mgnt_live.png)
+
+
+## 13.3 WINDOWS NETWORKING
+
+### Windows Network Connection Types
+
+- Wired
+    - EthernetX, where x is the number of the interface
+    - Configure by navigating to Device Manager > Properties > Advanced tab
+- Wireless
+    - Scan for network or enter SSID manually `beware of evil twins`
+    - Connect automatically selection 
+        - Only for trusted networks
+
+### IP Addressign Schemes
+
+- Configuration requirements
+    - IP address
+        1. v4- 32-bit address: dotted decimal
+        1. v6- 128-bit address: hex notation
+    - Subnet mask
+    - Default gateway: associated with your router
+    - DNS server IP: 
+- Static vs dynamic (DHCP)
+
+### WIndows Client Configuration
+
+- Network & Internet settings or Network Connections applet
+- DHCP is default configuration for adapters
+- Installed by default
+    - Microsoft Networks 
+    - File and Printer Sharing for Microsoft Networks 
+    - IPv4 and IPv6
+    - Link-layer Topology Discovery 
+    - Network mapping and discovery function
+
+
+![Windows Network Config](/assets/windows_network_config.png)
+
+### Network Location
+
+- Firewall controlled by Windows Defender Firewall
+    - Unless third party firewall is installed
+- Public, private, domain profiles
+    - Public system: Not discoverable on network and sharing disabled
+    - Private system: Discoverable on network and file and printer sharing
+    - Domain
+        1. Used in enterprise environments
+        1. Firewall managed through a group policy
+
+### Windows Defender Firewall Configuration
+
+- Windows Security Center
+    - Set firewall and network protection
+- Allow or Block program or communication protocols
+
+
+### VPN and WWAN Connection Types
+
+- Connects components together via a secure encrypted connection
+- Various options are available for VPN type
+- Third-party VPN apps for specific software 
+    - NordVPN, ExpressVPN, etc.
+- Wireless wide area networks
+    - Cellular access card
+    - Metered connection setting
+
+### Proxy Settings
+
+- Improves performance and security
+- Saves bandwidth through local cache of web content
+- IP and port of proxy server
+    - Port 8080 is common
+
