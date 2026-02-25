@@ -235,3 +235,4 @@
 - Used for federated access or single sign-on configurations
 
 ![entra infrasturcutre](/assets/entrainfra.png)
+
