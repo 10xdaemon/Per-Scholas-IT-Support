@@ -278,4 +278,3 @@
 - Recovery Menu
     - Hold COMMAND+R while powering up Mac until Apple icon appears
 - If internet access is available, Recovery can download a fresh installation of the OS
-
