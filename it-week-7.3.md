@@ -148,8 +148,8 @@
 
 ### Browser Patching
 
-- Updates- processed through OS updates or separately
 - Auto update upon launch
+- Updates- processed through OS updates or separately
 - About menu
 
 ### Secure Connections and Valid Certificates
